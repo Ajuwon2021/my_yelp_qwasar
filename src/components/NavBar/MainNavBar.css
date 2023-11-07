@@ -1,0 +1,21 @@
+.navb {
+    background-color: #ad9d8b;
+    
+    font-weight: 700;
+}
+
+.navb span {
+    color: #fff;
+}
+
+.sgn {
+    background-color: #975912;
+    color: #fff;
+    border: none;
+    font-weight: 600;
+}
+
+.sgn:hover {
+    background-color: #fff;
+    color: #975912;
+}
